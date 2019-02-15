@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # bashdb - a bash debugger
 # Driver Script: concatenates the preamble and the target script
 # and then executes the new script.
